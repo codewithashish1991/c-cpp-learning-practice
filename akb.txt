@@ -1,0 +1,3 @@
+The fstream library allows us to work with files. 
+ To use the fstream library, include both the standard <iostream> AND the <fstream> 
+ header file:
